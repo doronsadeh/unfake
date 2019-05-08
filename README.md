@@ -8,6 +8,6 @@ Machine Learning based classification of fake news over multi media sources
 - Classify fake news reliably
 - Classify users who deliver large amounts of fake news
 - Build a live index of the above users
-- Build a browser based extention that blocks those users 
+- Build a browser-based extension that blocks those users
 
 Let's clean the world.
